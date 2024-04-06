@@ -1,5 +1,3 @@
-<img align="right" alt="" height="300px" src="./me.png">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1&color=ffff00&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Paulo+Roberto!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 
@@ -12,9 +10,9 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
 <h3 align="left">Connect with me!</h3>
 
 <div> 
-  <a href="https://www.instagram.com/proberto.fjr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23833AB4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:paulo_freitas-jun1@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/-Gmail-%23DB4437?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-roberto-freitas-junior-782711261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/proberto.fjr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23833AB4?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:paulo_freitas-jun1@estudante.sesisenai.org.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23DB4437?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/paulo-roberto-freitas-junior-782711261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div>
 
